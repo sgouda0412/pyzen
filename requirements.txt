@@ -1,0 +1,16 @@
+pytest
+pytest-cov
+
+black
+ruff
+pylint
+mypy
+isort
+requests
+pandas
+numpy
+snowflake-connector-python
+tqdm
+pydantic
+
+pre-commit
